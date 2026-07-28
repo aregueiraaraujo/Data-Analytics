@@ -1,6 +1,12 @@
 SELECT id, company_name
-FROM company 
-WHERE NOT EXISTS (
-    SELECT 1 FROM transaction 
-    WHERE transaction.company_id = company.id
+FROM company co 
+WHERE id IN (
+    SELECT company_id
+    FROM transaction t
+    WHERE t.company_id = co.id AND declined = 1
+) 
+AND id NOT IN (
+    SELECT company_id
+    FROM transaction t
+    WHERE t.company_id = co.id AND declined = 0
 );
