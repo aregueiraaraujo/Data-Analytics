@@ -1,4 +1,4 @@
-SELECT ROUND(SUM(t.amount),2) AS total, t.time_stamp
+SELECT CAST(SUM(t.amount) AS DECIMAL(10,2)) AS total, DATE(t.time_stamp)
 FROM transactions AS t
 INNER JOIN companies AS co ON co.company_id = t.business_id
 WHERE t.declined = 0
