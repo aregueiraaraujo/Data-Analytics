@@ -1,0 +1,12 @@
+clients = [ 
+    {"id_client": 1, "nom": "Laura Serra", "edat": 23, "grup_edat": "18-25", "codi_comportament": 4}, 
+    {"id_client": 2, "nom": "Marc Vidal", "edat": 35, "grup_edat": "26-40", "codi_comportament": 3}, 
+    {"id_client": 3, "nom": "Ana López", "edat": 29, "grup_edat": "26-40", "codi_comportament": 2}, 
+    {"id_client": 4, "nom": "Joan Riera", "edat": 19, "grup_edat": "18-25", "codi_comportament": 2}, 
+    {"id_client": 5, "nom": "Mónica Pérez", "edat": 47, "grup_edat": "41-60", "codi_comportament": 4}, 
+    {"id_client": 6, "nom": "Luis García", "edat": 52, "grup_edat": "41-60", "codi_comportament": 1}, 
+    {"id_client": 7, "nom": "Pilar Sánchez", "edat": 61, "grup_edat": "60+", "codi_comportament": 3}, 
+    {"id_client": 8, "nom": "Eva Martín", "edat": 38, "grup_edat": "26-40", "codi_comportament": 0}, 
+    {"id_client": 9, "nom": "Diego Romero", "edat": 24, "grup_edat": "18-25", "codi_comportament": 1}, 
+    {"id_client": 10, "nom": "Núria Costa", "edat": 33, "grup_edat": "26-40", "codi_comportament": 4} 
+]  
