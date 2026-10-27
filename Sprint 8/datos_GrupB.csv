@@ -1,0 +1,321 @@
+Id,Nom,Cognoms,DNI,País d'origen,Ciutat,Dia de Naixement,Mes de Naixement,Any de Naixement,edad,Gènere,Salari mensual,Grup Professional,Càrrec,Nombre_fills,Te_cotxe,Km_anuals,Consum_mitja_L_100km,Temperatura_mitjana_ciutat,Pct_Ajuste_Transporte,Pct_Ajuste_costo_vida,Pct_Ajuste_edad,Pct_Ajuste_hijos,Pct_Ajuste_grupo,Pct_Aumento_Total,Salari mensual final,Edad,Indice_Dependencia_Familiar,Peso_Responsabilidad,Etapa_Vital
+0,Joana,Gil Navarro,66722344X,Espanya,Valladolid,23,3,1958,68,Dona,1469.0,Grup B,Project lead,3,True,32108.0,25.0,10.1,0.5,1.0,1.5,1.5,3.5,8.0,1586.52,67,396.63,201,2 - Alta dependencia
+3,Pol,Gil,58586340F,Espanya,Sevilla,13,10,1985,41,Home,1478.0,Grup B,Data Analyst,2,False,0.0,0.0,18.3,0.5,1.0,1.0,1.5,3.5,7.5,1588.85,40,529.62,80,1 - Etapa activa
+4,David,Vila,82070937P,Espanya,Bilbao,29,11,1965,60,Dona,1284.0,Grup B,Admin.,0,True,64954.0,11.8,13.1,0.0,1.0,1.5,0.0,3.5,6.0,1361.04,60,1361.04,0,0 - Sin cargas
+5,Alexia,Puig,25014631B,Espanya,Las Palmas de Gran Canaria,1,8,1978,48,Dona,2069.0,Grup B,Project lead,0,,,,19.9,0.5,1.0,2.0,0.0,3.5,7.0,2213.83,47,2213.83,0,0 - Sin cargas
+6,David,Gómez Vila,36998038E,Espanya,Palma,25,9,1971,55,Dona,2349.0,Grup B,Project lead,0,True,6196.0,10.6,17.8,0.0,1.0,2.0,0.0,3.5,6.5,2501.68,54,2501.68,0,0 - Sin cargas
+540,Nora,Andersen Pedersen,37289414J,Noruega,Stavanger,8,3,1963,63,Dona,1338.0,Grup B,Junior Analyst,0,False,0.0,0.0,7.6,0.0,0.0,1.5,0.0,3.5,5.0,1404.9,62,1404.9,0,0 - Sin cargas
+11,Guillem,Vidal,52169044F,Espanya,Zaragoza,22,4,1974,52,Home,2419.0,Grup B,Project lead,1,,,,38.0,0.5,1.0,2.0,1.5,3.5,8.5,2624.62,51,1312.31,51,2 - Alta dependencia
+15,Carmen,Hernández Serra,36786211Z,Espanya,Tarragona,8,8,1960,66,Home,1336.0,Grup B,Admin.,3,True,65950.0,,16.4,0.5,1.0,1.5,1.5,3.5,8.0,1442.88,65,360.72,195,2 - Alta dependencia
+18,Nil,Fernández Vidal,69345683K,Espanya,Bilbao,15,8,1978,48,Home,1751.0,Grup B,Senior Analyst,0,True,64444.0,0.5,16.0,0.0,1.0,2.0,0.0,3.5,6.5,1864.81,47,1864.81,0,0 - Sin cargas
+21,Sergio,Ribera,30509175E,Espanya,Màlaga,23,7,1972,54,Dona,1880.0,Grup B,Senior Analyst,4,,,,19.8,0.0,0.0,2.0,1.5,3.5,7.0,2011.6,53,402.32,212,2 - Alta dependencia
+23,Antoine,Robert,38408562Z,França,Lyon,11,7,1974,52,Nc,1479.0,Grup B,Admin.,0,False,0.0,0.0,10.7,0.0,1.0,2.0,0.0,3.5,6.5,1575.14,51,1575.14,0,0 - Sin cargas
+24,Camille,Durand Martin,99853245A,França,Paris,16,3,1973,53,Dona,1840.0,Grup B,Senior Analyst,0,True,22384.0,0.5,11.6,-0.5,2.0,2.0,0.0,3.5,7.0,1968.8,52,1968.8,0,0 - Sin cargas
+33,Adrià,Ferrer,33513701S,Espanya,Tarragona,10,5,1987,39,Home,1538.0,Grup B,Sales Manager,0,False,0.0,0.0,13.4,0.5,1.0,1.0,0.0,3.5,6.0,1630.28,38,1630.28,0,0 - Sin cargas
+35,Hugo,Pujol,83715012G,Espanya,Màlaga,9,4,1961,65,Dona,1974.0,Grup B,Project lead,0,False,0.0,0.0,19.1,0.0,0.0,1.5,0.0,3.5,5.0,2072.7,64,2072.7,0,0 - Sin cargas
+464,Ida,Karlsen Eriksen,55283701C,Noruega,Oslo,2,9,1992,34,Dona,1614.0,Grup B,Mid-level Analyst,3,,,,10.6,-0.5,2.0,1.0,1.5,3.5,7.5,1735.05,33,433.76,99,1 - Etapa activa
+43,Laia,Vidal Pérez,65767881M,Espanya,Palma,24,6,1976,50,Dona,1923.0,Grup B,Senior Analyst,2,False,0.0,0.0,19.5,0.0,1.0,2.0,1.5,3.5,8.0,2076.84,49,692.28,98,2 - Alta dependencia
+44,Pau,Pérez,63339667V,Espanya,Palma,22,12,2001,24,Dona,1090.0,Grup B,Admin.,0,,,,17.3,0.0,1.0,0.0,0.0,3.5,4.5,1139.05,24,1139.05,0,0 - Sin cargas
+50,Claudia,Díaz,97874085C,Espanya,A Coruña,4,12,1964,61,Dona,1714.0,Grup B,Senior Analyst,0,False,0.0,0.0,16.2,0.0,1.0,1.5,0.0,3.5,6.0,1816.84,61,1816.84,0,0 - Sin cargas
+51,Francesca,Ferrari,60015814G,Itàlia,Venezia,24,12,1964,61,Home,1773.0,Grup B,Mid-level Analyst,3,False,0.0,0.0,11.5,0.5,1.0,1.5,1.5,3.5,8.0,1914.84,61,478.71,183,2 - Alta dependencia
+52,Marina,Vidal,24524825B,Espanya,Màlaga,28,4,1988,38,Dona,1647.0,Grup B,Admin.,0,,,,19.0,0.0,0.0,1.0,0.0,3.5,4.5,1721.11,37,1721.11,0,0 - Sin cargas
+54,Pau,Ribera Gómez,46521025Z,Espanya,A Coruña,3,11,1961,65,Home,1799.0,Grup B,Tècnic IT,0,True,50000.0,11.0,15.5,0.0,1.0,1.5,0.0,3.5,6.0,1906.94,64,1906.94,0,0 - Sin cargas
+55,Carlos,Díaz,26104026T,Espanya,Barcelona,11,5,1974,52,Home,1413.0,Grup B,Data Analyst,0,,,,18.6,-0.5,1.0,2.0,0.0,3.5,6.0,1497.78,51,1497.78,0,0 - Sin cargas
+58,Riccardo,Barbieri,93821894X,Itàlia,Venezia,21,11,1994,31,Dona,1597.0,Grup B,Admin.,0,True,65950.0,,13.8,0.5,1.0,1.0,0.0,3.5,6.0,1692.82,31,1692.82,0,0 - Sin cargas
+60,Núria,Navarro,47969333N,Espanya,Girona,30,6,1981,45,Home,2125.0,Grup B,Tècnic IT,0,True,194772.4,25.0,13.0,0.5,1.0,2.0,0.0,3.5,7.0,2273.75,44,2273.75,0,0 - Sin cargas
+504,Jon,Johnsen Pettersen,42352710Z,Noruega,Trondheim,4,12,1978,47,Dona,1681.0,Grup B,Tècnic IT,0,False,0.0,0.0,7.0,0.0,0.0,2.0,0.0,3.5,5.5,1773.46,47,1773.46,0,0 - Sin cargas
+65,Marta,Ruiz Puig,29602406G,Espanya,Madrid,11,11,2003,22,Dona,1664.0,Grup B,Mid-level Analyst,0,True,80000.0,25.0,13.9,0.0,1.0,0.0,0.0,3.5,4.5,1738.88,22,1738.88,0,0 - Sin cargas
+66,Carmen,Díaz Ruiz,24879094S,Espanya,Bilbao,3,8,1997,29,Home,1702.0,Grup B,Mid-level Analyst,1,True,29300.0,25.0,16.3,0.0,1.0,0.0,1.5,3.5,6.0,1804.12,28,902.06,28,1 - Etapa activa
+69,Laura,Hoffmann Bauer,61894582X,Alemanya,Berlin,15,12,1983,42,Dona,1.8,Grup B,Data Analyst,0,True,113964.0,7.0,11.1,-0.5,1.0,1.0,0.0,3.5,5.0,800.0,42,800.0,0,0 - Sin cargas
+70,Élise,Michel Garcia,57319709L,França,Nice,28,12,1960,65,Dona,1394.0,Grup B,Tècnic IT,2,True,39561.0,,16.5,0.0,0.0,1.5,1.5,3.5,6.5,1484.61,65,494.87,130,2 - Alta dependencia
+76,Claudia,Roca Vidal,91220369X,Espanya,Madrid,24,10,2000,26,Dona,1058.0,Grup B,Mid-level Analyst,0,,,,15.3,0.0,1.0,0.0,0.0,3.5,4.5,1105.61,25,1105.61,0,0 - Sin cargas
+87,Lucía,Romero,36770527D,Espanya,Alacant,21,8,1988,38,Dona,1263.0,Grup B,Admin.,0,True,29386.0,0.5,20.9,0.5,1.0,1.0,0.0,3.5,6.0,1338.78,37,1338.78,0,0 - Sin cargas
+88,Xavier,Díaz,54968591D,Espanya,Murcia,4,10,1994,32,Dona,1890.0,Grup B,Sales Manager,0,True,20000.0,7.6,17.6,0.5,1.0,1.0,0.0,3.5,6.0,2003.4,31,2003.4,0,0 - Sin cargas
+96,Alba,Moreno Ribera,65507111D,Espanya,Valladolid,8,9,2000,26,Dona,1700.0,Grup B,Project lead,0,,,,8.6,0.5,1.0,0.0,0.0,3.5,5.0,1785.0,25,1785.0,0,0 - Sin cargas
+98,Francesca,Lombardi,91197624L,Itàlia,Firenze,22,7,1975,51,Dona,1392.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,14.4,0.0,1.0,2.0,0.0,3.5,6.5,1482.48,50,1482.48,0,0 - Sin cargas
+107,Pau,García,21716836M,Espanya,Madrid,5,2,1975,51,Home,1957.0,Grup B,Tècnic IT,3,,,,18.0,0.0,1.0,2.0,1.5,3.5,8.0,2113.56,50,528.39,150,2 - Alta dependencia
+108,Jordi,Díaz Pujol,79941466M,Espanya,Zaragoza,19,4,1993,33,Dona,1549.0,Grup B,Tècnic IT,4,False,0.0,0.0,17.0,0.5,1.0,1.0,1.5,3.5,7.5,1665.18,32,333.04,128,1 - Etapa activa
+109,Katharina,Braun Fischer,93240786N,Alemanya,Leipzig,11,7,1958,68,,1800.0,Grup B,Admin.,1,True,76180.0,,9.1,0.0,1.0,1.5,1.5,3.5,7.5,1935.0,67,967.5,67,2 - Alta dependencia
+110,Víctor,Ruiz Hernández,85678734Y,Espanya,A Coruña,4,6,1983,43,Home,1.82,Grup B,Data Analyst,0,False,0.0,0.0,10.0,0.0,1.0,1.0,0.0,3.5,5.5,800.0,42,800.0,0,0 - Sin cargas
+120,Claudia,Ribera,98032908G,Espanya,Murcia,9,1,1984,42,Dona,1567.0,Grup B,Data Analyst,0,,,,22.1,0.5,1.0,1.0,0.0,3.5,6.0,1661.02,41,1661.02,0,0 - Sin cargas
+129,Jordi,Serra García,44795538M,Espanya,Madrid,17,9,1980,46,Dona,1324.0,Grup B,Admin.,4,True,19232.0,6.7,18.4,0.0,1.0,2.0,1.5,3.5,8.0,1429.92,45,285.98,180,2 - Alta dependencia
+130,Lucía,Hernández,40655922Q,Espanya,Màlaga,4,12,2001,24,Dona,1268.0,Grup B,Mid-level Analyst,2,True,,,18.8,0.0,0.0,0.0,1.5,3.5,5.0,1331.4,24,443.8,48,1 - Etapa activa
+134,Max,Zimmermann Weber,62741214E,Alemanya,München,30,6,1974,52,Dona,1343.0,Grup B,Admin.,1,True,65950.0,,9.4,0.0,0.0,2.0,1.5,3.5,7.0,1437.01,51,718.5,51,2 - Alta dependencia
+135,Julien,Dubois Moreau,38859601X,França,Bordeaux,2,10,2002,24,Dona,1644.0,Grup B,Data Analyst,0,True,20000.0,7.1,9.0,0.0,1.0,0.0,0.0,3.5,4.5,1717.98,23,1717.98,0,0 - Sin cargas
+138,Noa,Casals,74382155V,Espanya,Sevilla,12,12,1982,43,Home,1967.0,Grup B,Sales Manager,1,True,3920.0,,19.2,0.5,1.0,1.0,1.5,3.5,7.5,2114.52,43,1057.26,43,1 - Etapa activa
+144,Oriol,Ribera Gil,40277201M,Espanya,Zaragoza,21,10,1988,38,Dona,1479.0,Grup B,Sales Manager,0,False,0.0,0.0,14.3,0.5,1.0,1.0,0.0,3.5,6.0,1567.74,37,1567.74,0,0 - Sin cargas
+148,Alba,Ramos Gil,41627336S,Espanya,Zaragoza,29,10,1988,38,Dona,1486.0,Grup B,Project lead,0,False,0.0,0.0,-10.0,0.5,1.0,1.0,0.0,3.5,6.0,1575.16,37,1575.16,0,0 - Sin cargas
+149,Adrià,Fernández,18994192W,Espanya,Valladolid,11,5,1996,30,Dona,1849.0,Grup B,Tècnic IT,0,,,,13.8,0.5,1.0,1.0,0.0,3.5,6.0,1959.94,29,1959.94,0,0 - Sin cargas
+155,Víctor,Díaz,60529679B,Espanya,A Coruña,29,7,1975,51,Dona,1654.0,Grup B,Sales Manager,0,,,,-5.0,0.0,1.0,2.0,0.0,3.5,6.5,1761.51,50,1761.51,0,0 - Sin cargas
+82,Liv,Hagen,24710878J,Noruega,Tromsø,11,6,1959,67,Dona,2158.0,Grup B,Project lead,1,,,,5.0,0.0,0.0,1.5,1.5,3.5,6.5,2298.27,66,1149.14,66,2 - Alta dependencia
+163,Joana,Soler,79834723P,Espanya,Sevilla,22,2,2000,26,Home,1430.0,Grup B,Data Analyst,1,False,0.0,0.0,19.7,0.5,1.0,0.0,1.5,3.5,6.5,1522.95,25,761.48,25,1 - Etapa activa
+164,Marta,Serra Gómez,74513622X,Espanya,Sevilla,23,4,1989,37,Dona,1457.0,Grup B,Senior Analyst,0,,,,21.2,0.5,1.0,1.0,0.0,3.5,6.0,1544.42,36,1544.42,0,0 - Sin cargas
+169,Carmen,Gil,69618021H,Espanya,Las Palmas de Gran Canaria,15,2,1973,53,Dona,1727.0,Grup B,Sales Manager,0,False,0.0,0.0,23.2,0.5,1.0,2.0,0.0,3.5,7.0,1847.89,52,1847.89,0,0 - Sin cargas
+171,Marta,Domènech,24270328R,Espanya,Màlaga,12,9,1993,33,Home,1681.0,Grup B,Data Analyst,1,False,0.0,0.0,18.7,0.0,0.0,1.0,1.5,3.5,6.0,1781.86,32,890.93,32,1 - Etapa activa
+176,Alba,Navarro Vila,96854901V,Espanya,Màlaga,24,4,1993,33,Dona,1641.0,Grup B,Tècnic IT,0,,,,15.0,0.0,0.0,1.0,0.0,3.5,4.5,1714.84,32,1714.84,0,0 - Sin cargas
+177,Martina,Colombo,95065651E,Itàlia,Roma,30,4,1986,40,Dona,1750.0,Grup B,Admin.,0,True,59507.0,8.0,16.0,0.0,1.0,1.0,0.0,3.5,5.5,1846.25,39,1846.25,0,0 - Sin cargas
+179,Sergio,Ramos Gómez,82890984V,Espanya,Girona,14,3,1990,36,Dona,1549.0,Grup B,Tècnic IT,2,,,,15.3,0.5,1.0,1.0,1.5,3.5,7.5,1665.18,35,555.06,70,1 - Etapa activa
+181,Alexia,Muñoz,97446634Y,Espanya,Murcia,10,1,1989,37,Home,2000.0,Grup B,Admin.,0,True,48621.0,0.5,18.9,0.5,1.0,1.0,0.0,3.5,6.0,2120.0,36,2120.0,0,0 - Sin cargas
+182,Guillem,Pérez Serra,33889703P,Espanya,Girona,2,2,1963,63,Dona,1306.0,Grup B,Junior Analyst,0,True,27526.0,25.0,13.2,0.5,1.0,1.5,0.0,3.5,6.5,1390.89,62,1390.89,0,0 - Sin cargas
+184,Víctor,Vila,84500200G,Espanya,Alacant,28,9,1958,68,Dona,1713.0,Grup B,Junior Analyst,0,,,,17.2,0.5,1.0,1.5,0.0,3.5,6.5,1824.34,67,1824.34,0,0 - Sin cargas
+185,Marc,Ramos Gómez,34341456K,Espanya,Valladolid,4,4,1974,52,Home,1734.0,Grup B,Mid-level Analyst,1,True,80000.0,4.7,14.4,0.5,1.0,2.0,1.5,3.5,8.5,1881.39,51,940.7,51,2 - Alta dependencia
+190,Jonas,Becker Wagner,71021210R,Alemanya,Frankfurt,16,7,1981,45,Dona,1363.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,11.5,-0.5,1.0,2.0,0.0,3.5,6.0,1444.78,44,1444.78,0,0 - Sin cargas
+191,Noa,Ribera,64471218B,Espanya,A Coruña,17,4,1982,44,Dona,1650.0,Grup B,Admin.,0,True,62723.0,5.0,15.5,0.0,1.0,1.0,0.0,3.5,5.5,1740.75,43,1740.75,0,0 - Sin cargas
+202,Sara,Torres,88762521T,Espanya,Zaragoza,15,11,1987,38,Dona,1734.0,Grup B,Project lead,2,False,0.0,0.0,12.1,0.5,1.0,1.0,1.5,3.5,7.5,1864.05,38,621.35,76,1 - Etapa activa
+203,Irene,Soler,52127291B,Espanya,Madrid,16,3,1993,33,Home,1.76,Grup B,Senior Analyst,0,True,80000.0,10.5,15.4,0.0,1.0,1.0,0.0,3.5,5.5,800.0,32,800.0,0,0 - Sin cargas
+209,Víctor,Puig Roca,31743203X,Espanya,Valladolid,3,2,1983,43,A,2257.0,Grup B,Senior Analyst,0,False,0.0,0.0,42.0,0.5,1.0,1.0,0.0,3.5,6.0,2392.42,42,2392.42,0,0 - Sin cargas
+212,Nil,Puig Gil,59094606J,Espanya,Las Palmas de Gran Canaria,10,8,1963,63,Dona,1446.0,Grup B,Project lead,0,,,,22.0,0.5,1.0,1.5,0.0,3.5,6.5,1539.99,62,1539.99,0,0 - Sin cargas
+216,Jordi,Sánchez,14497675Y,Espanya,Murcia,8,8,1982,44,Dona,1379.0,Grup B,Sales Manager,4,False,0.0,0.0,19.7,0.5,1.0,1.0,1.5,3.5,7.5,1482.42,43,296.48,172,1 - Etapa activa
+220,Jordi,Costa,18501586K,Espanya,Alacant,24,6,1973,53,Dona,1899.0,Grup B,Tècnic IT,0,False,0.0,0.0,16.6,0.5,1.0,2.0,0.0,3.5,7.0,2031.93,52,2031.93,0,0 - Sin cargas
+221,Chiara,Esposito,62156850K,Itàlia,Roma,27,11,1994,31,,1893.0,Grup B,Sales Manager,1,True,80000.0,25.0,15.1,0.0,1.0,1.0,1.5,3.5,7.0,2025.51,31,1012.76,31,1 - Etapa activa
+226,Víctor,DÃ­az Ãlvarez,53579429S,Espanya,Bilbao,3,12,1971,54,Dona,1819.0,Grup B,Data Analyst,1,True,30000.0,13.4,13.2,0.0,1.0,2.0,1.5,3.5,8.0,1964.52,54,982.26,54,2 - Alta dependencia
+230,Hugo,Puig Domènech,24935479D,Espanya,Sevilla,23,6,1958,68,Home,1617.0,Grup B,Sales Manager,1,False,0.0,0.0,21.0,0.5,1.0,1.5,1.5,3.5,8.0,1746.36,67,873.18,67,2 - Alta dependencia
+231,Jordi,Ãlvarez,18067834D,Espanya,Valladolid,6,5,1960,66,Dona,2184.0,Grup B,Senior Analyst,0,,,,15.0,0.5,1.0,1.5,0.0,3.5,6.5,2325.96,65,2325.96,0,0 - Sin cargas
+232,Marta,Vila Díaz,61096850Q,Espanya,Valladolid,8,7,1999,27,Home,1701.0,Grup B,Junior Analyst,1,,,,13.7,0.5,1.0,0.0,1.5,3.5,6.5,1811.56,26,905.78,26,1 - Etapa activa
+234,Irene,Ramos,66013532F,Espanya,Girona,8,11,1998,27,Home,1696.0,Grup B,Data Analyst,0,,,,11.6,0.5,1.0,0.0,0.0,3.5,5.0,1780.8,27,1780.8,0,0 - Sin cargas
+237,Laia,Romero,37223861Y,Espanya,Sevilla,8,7,1975,51,Dona,1758.0,Grup B,Junior Analyst,0,True,80000.0,25.0,19.0,0.5,1.0,2.0,0.0,3.5,7.0,1881.06,50,1881.06,0,0 - Sin cargas
+238,Simone,Esposito,82191574N,Itàlia,Roma,17,4,1960,66,Dona,1726.0,Grup B,Mid-level Analyst,3,False,0.0,0.0,15.0,0.0,1.0,1.5,1.5,3.5,7.5,1855.45,65,463.86,195,2 - Alta dependencia
+240,Laura,Meyer,95103759B,Alemanya,Frankfurt,15,12,1965,60,Home,1631.0,Grup B,Junior Analyst,0,False,0.0,0.0,-10.0,-0.5,1.0,1.5,0.0,3.5,5.5,1720.7,60,1720.7,0,0 - Sin cargas
+241,Tim,Schäfer Wolf,37226295T,Alemanya,Berlin,5,2,1969,57,Dona,2099.0,Grup B,Project lead,0,,,,8.1,-0.5,1.0,2.0,0.0,3.5,6.0,2224.94,56,2224.94,0,0 - Sin cargas
+245,Hugo,Vila Ramos,27409802L,Espanya,Zaragoza,30,6,1997,29,Home,2044.0,Grup B,Data Analyst,1,False,0.0,0.0,17.3,0.5,1.0,0.0,1.5,3.5,6.5,2176.86,28,1088.43,28,1 - Etapa activa
+246,Víctor,Costa,95564277Y,Espanya,Sevilla,18,6,1979,47,Home,1400.0,Grup B,Mid-level Analyst,1,True,80000.0,6.2,17.5,0.5,1.0,2.0,1.5,3.5,8.5,1519.0,46,759.5,46,2 - Alta dependencia
+247,Nicolas,David,71823092V,França,Nantes,21,3,1988,38,Home,1666.0,Grup B,Admin.,0,True,,,13.1,0.0,0.0,1.0,0.0,3.5,4.5,1740.97,37,1740.97,0,0 - Sin cargas
+249,Víctor,Martínez,74781956Q,Espanya,Màlaga,1,9,1986,40,Dona,1813.0,Grup B,Data Analyst,1,,,,17.4,0.0,0.0,1.0,1.5,3.5,6.0,1921.78,39,960.89,39,1 - Etapa activa
+256,Felix,Schmidt Weber,29693143K,Alemanya,Stuttgart,25,1,1998,28,Dona,1569.0,Grup B,Data Analyst,0,False,0.0,0.0,7.0,0.0,1.0,0.0,0.0,3.5,4.5,1639.6,27,1639.6,0,0 - Sin cargas
+264,Pol,Roca Vidal,45486562A,Espanya,Palma,21,1,1980,46,Dona,1568.0,Grup B,Mid-level Analyst,0,,,,15.7,0.0,1.0,2.0,0.0,3.5,6.5,1669.92,45,1669.92,0,0 - Sin cargas
+267,Hugo,López Costa,26346394E,Espanya,Barcelona,21,10,1971,55,Dona,1237.0,Grup B,Junior Analyst,0,,,,17.3,-0.5,1.0,2.0,0.0,3.5,6.0,1311.22,54,1311.22,0,0 - Sin cargas
+270,Oriol,Torres Vila,10443906N,Espanya,Tarragona,8,9,1962,64,Dona,1632.0,Grup B,Sales Manager,1,False,0.0,0.0,15.1,0.5,1.0,1.5,1.5,3.5,8.0,1762.56,63,881.28,63,2 - Alta dependencia
+273,Giorgio,Esposito,24271532A,Itàlia,Roma,27,2,1995,31,Dona,1895.0,Grup B,Sales Manager,3,,,,17.1,0.0,1.0,1.0,1.5,3.5,7.0,2027.65,30,506.91,90,1 - Etapa activa
+275,Noa,Costa Gómez,10969588M,Espanya,Murcia,1,2,1989,37,Dona,1682.0,Grup B,Mid-level Analyst,0,True,80000.0,11.4,18.2,0.5,1.0,1.0,0.0,3.5,6.0,1782.92,36,1782.92,0,0 - Sin cargas
+276,Élise,Dubois,84854623F,França,Nice,1,7,1980,46,Dona,1594.0,Grup B,Senior Analyst,0,,,,17.2,0.0,0.0,2.0,0.0,3.5,5.5,1681.67,45,1681.67,0,0 - Sin cargas
+278,Víctor,García,89551741H,Espanya,València,15,12,1973,52,Dona,1778.0,Grup B,Admin.,2,,,,16.6,0.0,1.0,2.0,1.5,3.5,8.0,1920.24,52,640.08,104,2 - Alta dependencia
+279,Chloé,David,91796786Z,França,Toulouse,7,3,1985,41,Home,1454.0,Grup B,Data Analyst,0,True,4103.0,0.5,13.1,0.0,0.0,1.0,0.0,3.5,4.5,1519.43,40,1519.43,0,0 - Sin cargas
+282,Marc,Vidal,28605786E,Espanya,Palma,25,8,1987,39,Dona,1968.0,Grup B,Project lead,1,,,,13.8,0.0,1.0,1.0,1.5,3.5,7.0,2105.76,38,1052.88,38,1 - Etapa activa
+284,Alexia,Fernández Moreno,87862305E,Espanya,Girona,16,11,1965,60,Home,1738.0,Grup B,Senior Analyst,4,True,20000.0,6.7,16.5,0.5,1.0,1.5,1.5,3.5,8.0,1877.04,60,375.41,240,2 - Alta dependencia
+295,Claudia,Roca,22684736L,Espanya,Bilbao,25,3,1998,28,Home,1723.0,Grup B,Data Analyst,3,,,,13.3,0.0,1.0,0.0,1.5,3.5,6.0,1826.38,27,456.6,81,1 - Etapa activa
+298,Adrià,Martínez Martínez,43958759R,Espanya,Tarragona,4,8,1961,65,Home,1247.0,Grup B,Junior Analyst,1,True,14109.0,,16.4,0.5,1.0,1.5,1.5,3.5,8.0,1346.76,64,673.38,64,2 - Alta dependencia
+301,Núria,Ruiz,19342782S,Espanya,Murcia,28,4,1985,41,Dona,1678.0,Grup B,Admin.,0,False,0.0,0.0,17.5,0.5,1.0,1.0,0.0,3.5,6.0,1778.68,40,1778.68,0,0 - Sin cargas
+309,Ilaria,Rizzo,50513220Q,Itàlia,Milano,27,11,1962,63,Dona,2094.0,Grup B,Project lead,1,,,,15.1,0.0,1.0,1.5,1.5,3.5,7.5,2251.05,63,1125.53,63,2 - Alta dependencia
+317,Joana,García,96046825G,Espanya,Palma,15,11,1969,56,Dona,1724.0,Grup B,Mid-level Analyst,2,,,,-10.0,0.0,1.0,2.0,1.5,3.5,8.0,1861.92,56,620.64,112,2 - Alta dependencia
+320,Nil,Ferrer,48949039P,Espanya,Murcia,1,3,1984,42,Dona,1730.0,Grup B,Senior Analyst,0,True,87108.0,25.0,18.9,0.5,1.0,1.0,0.0,3.5,6.0,1833.8,41,1833.8,0,0 - Sin cargas
+326,Alejandro,Fernández,17453784W,Espanya,A Coruña,26,6,1976,50,Dona,1.4,Grup B,Tècnic IT,0,True,30000.0,12.9,11.1,0.0,1.0,2.0,0.0,3.5,6.5,800.0,49,800.0,0,0 - Sin cargas
+327,Pol,Casals,99324622A,Espanya,Zaragoza,12,3,1996,30,Home,1668.0,Grup B,Admin.,0,False,0.0,0.0,13.9,0.5,1.0,1.0,0.0,3.5,6.0,1768.08,29,1768.08,0,0 - Sin cargas
+329,David,López,22681476Z,Espanya,Barcelona,14,7,1990,36,Dona,2094.0,Grup B,Project lead,4,True,27752.0,,15.7,-0.5,1.0,1.0,1.5,3.5,6.5,2230.11,35,446.02,140,1 - Etapa activa
+330,Núria,Costa,20498581L,Espanya,Valladolid,6,4,1969,57,Nc,1577.0,Grup B,Project lead,1,,,,11.7,0.5,1.0,2.0,1.5,3.5,8.5,1711.04,56,855.52,56,2 - Alta dependencia
+341,David,Díaz Ramos,95320264M,Espanya,Las Palmas de Gran Canaria,25,6,1991,35,Dona,1675.0,Grup B,Mid-level Analyst,0,True,80000.0,7.4,21.9,0.5,1.0,1.0,0.0,3.5,6.0,1775.5,34,1775.5,0,0 - Sin cargas
+342,Nil,Vidal,85913174E,Espanya,Palma,19,12,1973,52,Dona,1851.0,Grup B,Senior Analyst,0,,,,19.8,0.0,1.0,2.0,0.0,3.5,6.5,1971.31,52,1971.31,0,0 - Sin cargas
+343,Sara,Fernández,67135430J,Espanya,Las Palmas de Gran Canaria,23,3,1964,62,Dona,1261.0,Grup B,Junior Analyst,1,,,,25.1,0.5,1.0,1.5,1.5,3.5,8.0,1361.88,61,680.94,61,2 - Alta dependencia
+347,Claudia,Roca,53649791W,Espanya,València,28,3,1986,40,Home,1724.0,Grup B,Tècnic IT,0,,,,18.3,0.0,1.0,1.0,0.0,3.5,5.5,1818.82,39,1818.82,0,0 - Sin cargas
+354,Carlos,Costa,45079216E,Espanya,Zaragoza,21,6,2001,25,Dona,1591.0,Grup B,Sales Manager,0,,,,10.9,0.5,1.0,0.0,0.0,3.5,5.0,1670.55,24,1670.55,0,0 - Sin cargas
+355,Camille,Martin,62719526V,França,Nice,16,12,2002,23,Home,1887.0,Grup B,Junior Analyst,4,False,0.0,0.0,17.7,0.0,0.0,0.0,1.5,3.5,5.0,1981.35,23,396.27,92,1 - Etapa activa
+359,Laia,Ribera,52445278T,Espanya,Tarragona,15,9,1984,42,Dona,1800.0,Grup B,Tècnic IT,0,True,80000.0,5.7,15.1,0.5,1.0,1.0,0.0,3.5,6.0,1908.0,41,1908.0,0,0 - Sin cargas
+361,Núria,Martínez Roca,85062345R,Espanya,Tarragona,2,11,1964,62,Home,1916.0,Grup B,Project lead,1,,,,16.1,0.5,1.0,1.5,1.5,3.5,8.0,2069.28,61,1034.64,61,2 - Alta dependencia
+362,Élise,Fournier Martin,24496399A,França,Lille,7,10,1979,47,Home,1265.0,Grup B,Mid-level Analyst,1,,,,14.6,0.0,1.0,2.0,1.5,3.5,8.0,1366.2,46,683.1,46,2 - Alta dependencia
+363,Hugo,Navarro Pérez,88453254J,Espanya,Girona,10,3,1961,65,Home,1807.0,Grup B,Admin.,0,True,42512.0,6.8,13.8,0.5,1.0,1.5,0.0,3.5,6.5,1924.46,64,1924.46,0,0 - Sin cargas
+368,Laia,Roca,75631212Y,Espanya,Sevilla,29,10,1990,36,Home,1893.0,Grup B,Junior Analyst,0,False,0.0,0.0,22.2,0.5,1.0,1.0,0.0,3.5,6.0,2006.58,35,2006.58,0,0 - Sin cargas
+372,Alba,Muñoz,97954019T,Espanya,Bilbao,25,10,1983,43,Dona,1409.0,Grup B,Sales Manager,0,,,,14.7,0.0,1.0,1.0,0.0,3.5,5.5,1486.5,42,1486.5,0,0 - Sin cargas
+374,Marta,Moreno Romero,50216625X,Espanya,Murcia,18,12,1983,42,A,1087.0,Grup B,Mid-level Analyst,0,,,,42.0,0.5,1.0,1.0,0.0,3.5,6.0,1152.22,42,1152.22,0,0 - Sin cargas
+379,Valentina,Mancini,24123001Q,Itàlia,Napoli,25,2,1981,45,Home,1277.0,Grup B,Admin.,1,,,,17.7,0.5,1.0,2.0,1.5,3.5,8.5,1385.54,44,692.77,44,1 - Etapa activa
+381,David,Ferrer López,30601948Z,Espanya,Madrid,9,11,1958,68,Dona,1215.0,Grup B,Admin.,0,,,,18.7,0.0,1.0,1.5,0.0,3.5,6.0,1287.9,67,1287.9,0,0 - Sin cargas
+382,Marina,Ãlvarez,60653170Y,Espanya,Alacant,2,1,1996,30,Home,1725.0,Grup B,Admin.,0,True,6140.0,13.3,18.9,0.5,1.0,1.0,0.0,3.5,6.0,1828.5,29,1828.5,0,0 - Sin cargas
+384,Pau,Ribera Díaz,81965066H,Espanya,Barcelona,23,2,1989,37,Dona,1603.5,Grup B,Data Analyst,0,,,,13.4,-0.5,1.0,1.0,0.0,3.5,5.0,1683.68,36,1683.68,0,0 - Sin cargas
+385,Guillem,Torres García,78588767C,Espanya,Murcia,13,8,1995,31,Dona,1390.0,Grup B,Senior Analyst,0,,,,15.6,0.5,1.0,1.0,0.0,3.5,6.0,1473.4,30,1473.4,0,0 - Sin cargas
+387,Paolo,Russo,39855935L,Itàlia,Napoli,23,11,1973,52,Dona,1459.0,Grup B,Tècnic IT,4,True,118147.0,10.2,17.4,0.5,1.0,2.0,1.5,3.5,8.5,1583.02,52,316.6,208,2 - Alta dependencia
+388,Carlos,Ruiz,36512868F,Espanya,Alacant,6,5,1987,39,Dona,1556.0,Grup B,Tècnic IT,0,False,0.0,0.0,17.3,0.5,1.0,1.0,0.0,3.5,6.0,1649.36,38,1649.36,0,0 - Sin cargas
+533,Elias,Hansen,18718099Y,Noruega,Trondheim,2,11,2000,26,Dona,1278.0,Grup B,Data Analyst,2,False,0.0,0.0,4.0,0.0,0.0,0.0,1.5,3.5,5.0,1341.9,25,447.3,50,1 - Etapa activa
+399,Léa,Richard,13922081M,França,Toulouse,14,2,1963,63,Home,1390.0,Grup B,Admin.,0,,,,13.3,0.0,0.0,1.5,0.0,3.5,5.0,1459.5,62,1459.5,0,0 - Sin cargas
+401,Alejandro,Vila Ãlvarez,89196483V,Espanya,Màlaga,2,5,1958,68,Home,2002.0,Grup B,Senior Analyst,0,,,,18.6,0.0,0.0,1.5,0.0,3.5,5.0,2102.1,67,2102.1,0,0 - Sin cargas
+402,David,Vila,71174364G,Espanya,Barcelona,16,4,1976,50,Dona,1511.0,Grup B,Project lead,0,,,,17.7,-0.5,1.0,2.0,0.0,3.5,6.0,1601.66,49,1601.66,0,0 - Sin cargas
+406,Noa,Ferrer Martínez,90014633M,Espanya,València,10,8,1983,43,Home,2130.0,Grup B,Data Analyst,0,,,,16.3,0.0,1.0,1.0,0.0,3.5,5.5,2247.15,42,2247.15,0,0 - Sin cargas
+383,Ole,Johnsen,67429121A,Noruega,Oslo,13,9,1971,55,Dona,1778.0,Grup B,Senior Analyst,0,False,0.0,0.0,6.9,-0.5,2.0,2.0,0.0,3.5,7.0,1902.46,54,1902.46,0,0 - Sin cargas
+410,Gabriele,Lombardi,14930347Y,Itàlia,Firenze,8,1,2000,26,Nc,1432.0,Grup B,Data Analyst,3,,,,10.5,0.0,1.0,0.0,1.5,3.5,6.0,1517.92,25,379.48,75,1 - Etapa activa
+417,Oriol,Ãlvarez SÃ¡nchez,82359410A,Espanya,Zaragoza,27,4,2001,25,Dona,1761.0,Grup B,Project lead,0,False,0.0,0.0,38.0,0.5,1.0,0.0,0.0,3.5,5.0,1849.05,24,1849.05,0,0 - Sin cargas
+418,Luca,Gallo Costa,56938851M,Itàlia,Venezia,1,2,1980,46,,1377.0,Grup B,Tècnic IT,1,False,0.0,0.0,15.5,0.5,1.0,2.0,1.5,3.5,8.5,1494.04,45,747.02,45,2 - Alta dependencia
+421,Gabriele,Rossi Greco,92894635G,Itàlia,Genova,8,7,1963,63,Dona,1616.0,Grup B,Data Analyst,0,True,115098.0,13.4,17.7,0.5,1.0,1.5,0.0,3.5,6.5,1721.04,62,1721.04,0,0 - Sin cargas
+425,Xavier,Sánchez Gil,37111862V,Espanya,Palma,16,12,1977,48,Dona,1753.0,Grup B,Data Analyst,0,False,0.0,0.0,20.4,0.0,1.0,2.0,0.0,3.5,6.5,1866.94,48,1866.94,0,0 - Sin cargas
+427,David,Pujol Costa,86758847Y,Espanya,Zaragoza,6,1,1969,57,Dona,1644.0,Grup B,Mid-level Analyst,0,True,21422.0,9.8,16.7,0.5,1.0,2.0,0.0,3.5,7.0,1759.08,56,1759.08,0,0 - Sin cargas
+429,Lucía,Hernández,61268618C,Espanya,Bilbao,24,2,1995,31,Dona,2290.0,Grup B,Project lead,0,True,65950.0,,15.0,0.0,1.0,1.0,0.0,3.5,5.5,2415.95,30,2415.95,0,0 - Sin cargas
+430,Lucía,Navarro Vila,34213769C,Espanya,Palma,31,8,1994,32,Dona,1643.0,Grup B,Project lead,2,True,40000.0,4.6,22.3,0.0,1.0,1.0,1.5,3.5,7.0,1758.01,31,586.0,62,1 - Etapa activa
+431,Marina,Domènech Martínez,94206105L,Espanya,Barcelona,5,5,1963,63,,1056.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,-5.0,-0.5,1.0,1.5,0.0,3.5,5.5,1114.08,62,1114.08,0,0 - Sin cargas
+439,Antoine,Richard Dubois,63741103L,França,Toulouse,7,12,1966,59,Dona,1729.0,Grup B,Mid-level Analyst,0,,,,14.4,0.0,0.0,2.0,0.0,3.5,5.5,1824.09,59,1824.09,0,0 - Sin cargas
+441,Nil,Fernández,21413788H,Espanya,Alacant,9,4,1960,66,Home,1557.0,Grup B,Mid-level Analyst,3,False,0.0,0.0,-5.0,0.5,1.0,1.5,1.5,3.5,8.0,1681.56,65,420.39,195,2 - Alta dependencia
+442,Marco,Conti Rizzo,61286168S,Itàlia,Torino,19,1,1967,59,Home,1376.0,Grup B,Mid-level Analyst,0,True,53463.0,25.0,13.6,0.0,1.0,2.0,0.0,3.5,6.5,1465.44,58,1465.44,0,0 - Sin cargas
+443,Núria,Casals Díaz,62027391F,Espanya,Màlaga,29,1,1985,41,Dona,2.12,Grup B,Senior Analyst,0,True,11346.0,11.6,19.8,0.0,0.0,1.0,0.0,3.5,4.5,800.0,40,800.0,0,0 - Sin cargas
+444,Marta,López Serra,69330327C,Espanya,Màlaga,9,8,1974,52,Dona,1909.0,Grup B,Data Analyst,0,,,,19.8,0.0,0.0,2.0,0.0,3.5,5.5,2014.0,51,2014.0,0,0 - Sin cargas
+445,Davide,Ferrari,93297363C,Itàlia,Firenze,2,11,1974,52,Dona,1435.0,Grup B,Mid-level Analyst,1,True,44565.0,6.1,16.1,0.0,1.0,2.0,1.5,3.5,8.0,1549.8,51,774.9,51,2 - Alta dependencia
+448,Martina,Romano,49849912M,Itàlia,Napoli,25,6,1985,41,Home,2040.0,Grup B,Senior Analyst,0,False,0.0,0.0,15.1,0.5,1.0,1.0,0.0,3.5,6.0,2162.4,40,2162.4,0,0 - Sin cargas
+450,Marc,Pérez,39343051Y,Espanya,Murcia,2,2,1995,31,Home,1525.0,Grup B,Tècnic IT,2,,,,19.1,0.5,1.0,1.0,1.5,3.5,7.5,1639.38,30,546.46,60,1 - Etapa activa
+456,Xavier,López,95156202C,Espanya,Las Palmas de Gran Canaria,15,3,2004,22,Dona,1310.0,Grup B,Admin.,0,,,,21.9,0.5,1.0,0.0,0.0,3.5,5.0,1375.5,21,1375.5,0,0 - Sin cargas
+458,Anna,Moreno,11361006M,Espanya,Zaragoza,10,3,1968,58,Dona,2000.0,Grup B,Mid-level Analyst,3,True,3936.0,12.9,15.3,0.5,1.0,2.0,1.5,3.5,8.5,2170.0,57,542.5,171,2 - Alta dependencia
+461,Hugo,Bernard,96583583Q,França,Nice,20,5,1984,42,Home,1207.0,Grup B,Project lead,0,True,80000.0,4.8,14.6,0.0,0.0,1.0,0.0,3.5,4.5,1261.31,41,1261.31,0,0 - Sin cargas
+463,Alba,Moreno Martínez,66537506A,Espanya,Màlaga,9,1,1989,37,Dona,1701.0,Grup B,Junior Analyst,1,,,,18.2,0.0,0.0,1.0,1.5,3.5,6.0,1803.06,36,901.53,36,1 - Etapa activa
+466,Martina,Conti,32862463G,Itàlia,Milano,23,5,1982,44,Dona,1498.0,Grup B,Sales Manager,0,,,,10.6,0.0,1.0,1.0,0.0,3.5,5.5,1580.39,43,1580.39,0,0 - Sin cargas
+472,Carmen,Gómez López,11709239K,Espanya,Girona,5,8,1979,47,A,2000.0,Grup B,Sales Manager,1,False,0.0,0.0,14.8,0.5,1.0,2.0,1.5,3.5,8.5,2170.0,46,1085.0,46,2 - Alta dependencia
+473,Jordi,Vidal,32455261G,Espanya,Murcia,17,9,1972,54,Dona,1463.0,Grup B,Junior Analyst,1,False,0.0,0.0,15.6,0.5,1.0,2.0,1.5,3.5,8.5,1587.36,53,793.68,53,2 - Alta dependencia
+407,Erik,Hagen,86904329H,Noruega,Oslo,19,1,1972,54,Dona,1397.0,Grup B,Sales Manager,0,True,8516.0,25.0,8.6,-0.5,2.0,2.0,0.0,3.5,7.0,1494.79,53,1494.79,0,0 - Sin cargas
+480,Hugo,Puig Ruiz,82916404H,Espanya,València,20,3,1981,45,Dona,1579.0,Grup B,Project lead,0,True,5584.0,,17.2,0.0,1.0,2.0,0.0,3.5,6.5,1681.64,44,1681.64,0,0 - Sin cargas
+386,Lars,Andersen Karlsen,15087753F,Noruega,Oslo,21,4,1982,44,Dona,1546.0,Grup B,Project lead,0,False,0.0,0.0,5.8,-0.5,2.0,1.0,0.0,3.5,6.0,1638.76,43,1638.76,0,0 - Sin cargas
+482,Alejandro,Costa,73584629T,Espanya,Barcelona,4,4,1973,53,,1367.0,Grup B,Sales Manager,0,,,,13.5,-0.5,1.0,2.0,0.0,3.5,6.0,1449.02,52,1449.02,0,0 - Sin cargas
+484,Federico,Esposito,71348545A,Itàlia,Genova,10,1,1967,59,Dona,1341.0,Grup B,Tècnic IT,0,False,0.0,0.0,13.2,0.5,1.0,2.0,0.0,3.5,7.0,1434.87,58,1434.87,0,0 - Sin cargas
+485,Marta,Ramos,62428709Q,Espanya,València,17,12,1980,45,Dona,1532.0,Grup B,Junior Analyst,2,,,,17.4,0.0,1.0,2.0,1.5,3.5,8.0,1654.56,45,551.52,90,2 - Alta dependencia
+488,Núria,Soler Fernández,35809507W,Espanya,Palma,26,9,1985,41,Dona,1711.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,17.3,0.0,1.0,1.0,0.0,3.5,5.5,1805.1,40,1805.1,0,0 - Sin cargas
+489,Noa,Ramos,57258874B,Espanya,Girona,17,8,1994,32,Home,1799.0,Grup B,Data Analyst,0,,,,16.0,0.5,1.0,1.0,0.0,3.5,6.0,1906.94,31,1906.94,0,0 - Sin cargas
+493,Marina,Ribera,68589370R,Espanya,Palma,11,4,1980,46,Dona,1385.0,Grup B,Senior Analyst,0,True,18378.0,,18.6,0.0,1.0,2.0,0.0,3.5,6.5,1475.02,45,1475.02,0,0 - Sin cargas
+495,Anna,Hernández Gil,65141186E,Espanya,Las Palmas de Gran Canaria,29,6,1961,65,Dona,1428.0,Grup B,Sales Manager,0,,,,23.4,0.5,1.0,1.5,0.0,3.5,6.5,1520.82,64,1520.82,0,0 - Sin cargas
+496,Riccardo,Costa,88952257N,Itàlia,Napoli,9,5,1960,66,Dona,1438.0,Grup B,Project lead,0,False,0.0,0.0,13.0,0.5,1.0,1.5,0.0,3.5,6.5,1531.47,65,1531.47,0,0 - Sin cargas
+497,Paul,Bernard,91703604X,França,Lille,30,1,1980,46,Dona,2135.0,Grup B,Project lead,1,False,0.0,0.0,38.0,0.0,1.0,2.0,1.5,3.5,8.0,2305.8,45,1152.9,45,2 - Alta dependencia
+499,Aina,Casals,86294869K,Espanya,Valladolid,10,2,1958,68,Home,1342.0,Grup B,Admin.,0,False,0.0,0.0,11.1,0.5,1.0,1.5,0.0,3.5,6.5,1429.23,67,1429.23,0,0 - Sin cargas
+481,Erik,Bakke,79291785G,Noruega,Oslo,7,12,1961,64,Dona,1906.0,Grup B,Sales Manager,1,,,,7.1,-0.5,2.0,1.5,1.5,3.5,8.0,2058.48,64,1029.24,64,2 - Alta dependencia
+503,Chiara,De Luca,97135770W,Itàlia,Firenze,13,3,2004,22,Home,1421.0,Grup B,Junior Analyst,0,True,65950.0,,14.3,0.0,1.0,0.0,0.0,3.5,4.5,1484.94,21,1484.94,0,0 - Sin cargas
+506,Jordi,Gómez Hernández,23555369G,Espanya,Palma,24,8,2003,23,Home,1244.0,Grup B,Mid-level Analyst,1,False,0.0,0.0,21.4,0.0,1.0,0.0,1.5,3.5,6.0,1318.64,22,659.32,22,1 - Etapa activa
+507,Marco,Conti,24464884R,Itàlia,Bologna,20,10,1995,31,Home,1.53,Grup B,Junior Analyst,0,False,0.0,0.0,14.0,0.0,0.0,1.0,0.0,3.5,4.5,800.0,30,800.0,0,0 - Sin cargas
+516,Laia,Díaz Ruiz,93924534A,Espanya,Murcia,7,9,1968,58,Dona,1212.0,Grup B,Mid-level Analyst,3,,,,17.1,0.5,1.0,2.0,1.5,3.5,8.5,1315.02,57,328.76,171,2 - Alta dependencia
+517,Paolo,Colombo,48948304M,Itàlia,Firenze,8,12,1983,42,Home,1409.0,Grup B,Admin.,0,,,,15.7,0.0,1.0,1.0,0.0,3.5,5.5,1486.5,42,1486.5,0,0 - Sin cargas
+519,Lena,Schwarz,91294547D,Alemanya,Berlin,7,7,1995,31,Dona,1109.0,Grup B,Admin.,3,,,,7.6,-0.5,1.0,1.0,1.5,3.5,6.5,1181.08,30,295.27,90,1 - Etapa activa
+521,Felix,Zimmermann Schäfer,85280767M,Alemanya,Stuttgart,4,2,1998,28,Dona,2099.0,Grup B,Senior Analyst,1,,,,10.2,0.0,1.0,0.0,1.5,3.5,6.0,2224.94,27,1112.47,27,1 - Etapa activa
+522,Laia,Pujol,53143346E,Espanya,Sevilla,2,3,1979,47,Dona,1619.0,Grup B,Tècnic IT,0,False,0.0,0.0,17.4,0.5,1.0,2.0,0.0,3.5,7.0,1732.33,46,1732.33,0,0 - Sin cargas
+529,Alba,Hernández,43626780K,Espanya,Valladolid,16,8,1993,33,Home,1664.0,Grup B,Junior Analyst,3,,,,10.2,0.5,1.0,1.0,1.5,3.5,7.5,1788.8,32,447.2,96,1 - Etapa activa
+531,Luca,Barbieri,70999369S,Itàlia,Bologna,21,10,1988,38,Dona,2066.0,Grup B,Data Analyst,3,,,,13.3,0.0,0.0,1.0,1.5,3.5,6.0,2189.96,37,547.49,111,1 - Etapa activa
+532,Chloé,Michel,18365183X,França,Marseille,23,11,1986,39,Home,1380.0,Grup B,Junior Analyst,0,False,0.0,0.0,15.1,0.0,1.0,1.0,0.0,3.5,5.5,1455.9,39,1455.9,0,0 - Sin cargas
+790,Emil,Pedersen,62627379H,Noruega,Tromsø,15,3,1990,36,Home,1303.0,Grup B,Sales Manager,1,True,80000.0,25.0,2.6,0.0,0.0,1.0,1.5,3.5,6.0,1381.18,35,690.59,35,1 - Etapa activa
+534,David,Muñoz Navarro,72143529W,Espanya,Bilbao,19,2,2002,24,Home,1420.0,Grup B,Junior Analyst,1,True,80000.0,13.5,14.5,0.0,1.0,0.0,1.5,3.5,6.0,1505.2,23,752.6,23,1 - Etapa activa
+535,Sofia,Greco Bianchi,35265855P,Itàlia,Napoli,27,4,1984,42,Dona,1827.0,Grup B,Senior Analyst,3,False,0.0,0.0,11.1,0.5,1.0,1.0,1.5,3.5,7.5,1964.02,41,491.0,123,1 - Etapa activa
+536,Laia,Domènech,68230817B,Espanya,València,23,4,1994,32,Dona,2107.0,Grup B,Project lead,0,True,80000.0,25.0,18.5,0.0,1.0,1.0,0.0,3.5,5.5,2222.88,31,2222.88,0,0 - Sin cargas
+711,Astrid,Pettersen,30660064E,Noruega,Oslo,14,11,1977,48,Home,1329.0,Grup B,Junior Analyst,1,,,,9.4,-0.5,2.0,2.0,1.5,3.5,8.5,1441.96,48,720.98,48,2 - Alta dependencia
+546,Luca,Lombardi,26918765G,Itàlia,Firenze,4,9,1963,63,Dona,1800.0,Grup B,Sales Manager,0,False,0.0,0.0,12.8,0.0,1.0,1.5,0.0,3.5,6.0,1908.0,62,1908.0,0,0 - Sin cargas
+548,Aina,Ferrer,91151067N,Espanya,Zaragoza,2,11,1990,36,Dona,1450.0,Grup B,Data Analyst,4,False,0.0,0.0,12.8,0.5,1.0,1.0,1.5,3.5,7.5,1558.75,35,311.75,140,1 - Etapa activa
+549,Alessandro,Rossi,91781029Z,Itàlia,Napoli,24,5,1997,29,Dona,1649.0,Grup B,Tècnic IT,0,False,0.0,0.0,15.4,0.5,1.0,0.0,0.0,3.5,5.0,1731.45,28,1731.45,0,0 - Sin cargas
+552,Adrià,Ribera,99152055K,Espanya,Sevilla,4,11,1981,45,Home,1698.0,Grup B,Project lead,4,False,0.0,0.0,19.1,0.5,1.0,2.0,1.5,3.5,8.5,1842.33,44,368.47,176,1 - Etapa activa
+556,Katharina,Schwarz,63471904R,Alemanya,München,10,1,2004,22,Dona,1687.0,Grup B,Admin.,0,False,0.0,0.0,12.1,0.0,0.0,0.0,0.0,3.5,3.5,1746.04,21,1746.04,0,0 - Sin cargas
+561,David,Vila Casals,42842037P,Espanya,Girona,8,9,1994,32,Dona,1940.0,Grup B,Data Analyst,0,,,,16.1,0.5,1.0,1.0,0.0,3.5,6.0,2056.4,31,2056.4,0,0 - Sin cargas
+562,Carlos,Ferrer,18169177Y,Espanya,Girona,10,9,1966,60,Dona,2050.0,Grup B,Senior Analyst,0,,,,14.9,0.5,1.0,1.5,0.0,3.5,6.5,2183.25,59,2183.25,0,0 - Sin cargas
+563,Pau,Torres Gil,86414081T,Espanya,Palma,10,8,1996,30,Home,1493.0,Grup B,Tècnic IT,0,,,,20.6,0.0,1.0,1.0,0.0,3.5,5.5,1575.12,29,1575.12,0,0 - Sin cargas
+570,Núria,Ruiz Gil,49113647E,Espanya,Madrid,17,9,1974,52,Dona,1.42,Grup B,Mid-level Analyst,0,False,0.0,0.0,11.4,0.0,1.0,2.0,0.0,3.5,6.5,800.0,51,800.0,0,0 - Sin cargas
+579,Pol,Ramos Sánchez,18902088A,Espanya,A Coruña,14,2,1972,54,Dona,1747.0,Grup B,Sales Manager,0,False,0.0,0.0,15.9,0.0,1.0,2.0,0.0,3.5,6.5,1860.55,53,1860.55,0,0 - Sin cargas
+587,Clara,Richard,57030876W,França,Toulouse,27,4,1970,56,Home,1758.0,Grup B,Senior Analyst,1,True,93114.0,7.7,15.4,0.0,0.0,2.0,1.5,3.5,7.0,1881.06,55,940.53,55,2 - Alta dependencia
+40,Lars,Johnsen,42775624Q,Noruega,Oslo,5,7,1981,45,Home,1429.0,Grup B,Project lead,0,True,111435.0,0.5,4.8,-0.5,2.0,2.0,0.0,3.5,7.0,1529.03,44,1529.03,0,0 - Sin cargas
+596,Marc,Costa,35801896J,Espanya,Barcelona,19,9,1993,33,Dona,1900.0,Grup B,Data Analyst,0,,,,20.8,-0.5,1.0,1.0,0.0,3.5,5.0,1995.0,32,1995.0,0,0 - Sin cargas
+674,Emil,Moen,14887763Y,Noruega,Stavanger,26,3,1989,37,Home,1501.0,Grup B,Junior Analyst,0,False,0.0,0.0,8.7,0.0,0.0,1.0,0.0,3.5,4.5,1568.54,36,1568.54,0,0 - Sin cargas
+601,Lucía,Serra Hernández,36925055F,Espanya,Màlaga,13,5,1969,57,Nc,1688.0,Grup B,Admin.,0,,,,20.1,0.0,0.0,2.0,0.0,3.5,5.5,1780.84,56,1780.84,0,0 - Sin cargas
+612,Alba,Ruiz,52621317R,Espanya,Madrid,18,3,1968,58,Home,1602.0,Grup B,Junior Analyst,0,False,0.0,0.0,12.1,0.0,1.0,2.0,0.0,3.5,6.5,1706.13,57,1706.13,0,0 - Sin cargas
+613,Jordi,Vidal Ãlvarez,94327199R,Espanya,Zaragoza,25,4,1965,61,Dona,1752.0,Grup B,Junior Analyst,0,,,,15.0,0.5,1.0,1.5,0.0,3.5,6.5,1865.88,60,1865.88,0,0 - Sin cargas
+615,Paolo,Ricci,64464528J,Itàlia,Genova,7,6,1998,28,Dona,1.77,Grup B,Tècnic IT,0,False,0.0,0.0,15.9,0.5,1.0,0.0,0.0,3.5,5.0,800.0,27,800.0,0,0 - Sin cargas
+622,Luca,Ricci,46619501K,Itàlia,Torino,2,6,1985,41,Home,1707.0,Grup B,Sales Manager,0,True,84895.0,9.0,15.0,0.0,1.0,1.0,0.0,3.5,5.5,1800.88,40,1800.88,0,0 - Sin cargas
+625,Carlos,Martínez,73893558Y,Espanya,Sevilla,7,9,1998,28,Dona,1470.0,Grup B,Sales Manager,0,,,,21.6,0.5,1.0,0.0,0.0,3.5,5.0,1543.5,27,1543.5,0,0 - Sin cargas
+630,Víctor,Domènech,22730042T,Espanya,Zaragoza,7,3,1995,31,Home,1579.0,Grup B,Tècnic IT,0,,,,11.8,0.5,1.0,1.0,0.0,3.5,6.0,1673.74,30,1673.74,0,0 - Sin cargas
+633,Chiara,Bianchi,89568937L,Itàlia,Firenze,23,4,1994,32,Home,1815.0,Grup B,Senior Analyst,0,True,80000.0,25.0,-5.0,0.0,1.0,1.0,0.0,3.5,5.5,1914.82,31,1914.82,0,0 - Sin cargas
+637,Jordi,Roca Moreno,14635073C,Espanya,Las Palmas de Gran Canaria,27,10,1978,48,Home,2125.0,Grup B,Project lead,2,True,11169.0,13.7,18.4,0.5,1.0,2.0,1.5,3.5,8.5,2305.62,47,768.54,94,2 - Alta dependencia
+640,Laia,Fernández,56893195E,Espanya,Madrid,1,8,1995,31,Dona,1511.0,Grup B,Junior Analyst,2,True,80000.0,10.3,14.8,0.0,1.0,1.0,1.5,3.5,7.0,1616.77,30,538.92,60,1 - Etapa activa
+641,Sergio,Ribera Sánchez,90982662C,Espanya,Sevilla,15,1,1986,40,Dona,1285.0,Grup B,Tècnic IT,0,,,,19.5,0.5,1.0,1.0,0.0,3.5,6.0,1362.1,39,1362.1,0,0 - Sin cargas
+642,Guillem,Fernández,96950282C,Espanya,Girona,2,8,1981,45,Home,1747.0,Grup B,Senior Analyst,2,False,0.0,0.0,13.0,0.5,1.0,2.0,1.5,3.5,8.5,1895.5,44,631.83,88,1 - Etapa activa
+644,Pol,Ribera Hernández,14696647A,Espanya,Zaragoza,25,5,1959,67,Dona,1.61,Grup B,Project lead,0,False,0.0,0.0,14.0,0.5,1.0,1.5,0.0,3.5,6.5,800.0,66,800.0,0,0 - Sin cargas
+115,Sigrid,Hansen,23656928V,Noruega,Stavanger,19,2,2003,23,Home,1524.0,Grup B,Data Analyst,0,,,,8.1,0.0,0.0,0.0,0.0,3.5,3.5,1577.34,22,1577.34,0,0 - Sin cargas
+648,Luca,Conti,55855470V,Itàlia,Torino,20,3,1998,28,Home,1800.0,Grup B,Data Analyst,0,False,0.0,0.0,38.0,0.0,1.0,0.0,0.0,3.5,4.5,1881.0,27,1881.0,0,0 - Sin cargas
+655,Víctor,Serra,91229370H,Espanya,Palma,5,3,1968,58,Dona,1557.0,Grup B,Mid-level Analyst,0,True,29434.0,0.5,15.7,0.0,1.0,2.0,0.0,3.5,6.5,1658.2,57,1658.2,0,0 - Sin cargas
+658,Noa,Gil,78433310G,Espanya,Valladolid,28,3,2000,26,,1238.0,Grup B,Junior Analyst,0,False,0.0,0.0,17.1,0.5,1.0,0.0,0.0,3.5,5.0,1299.9,25,1299.9,0,0 - Sin cargas
+659,Marc,Moreno,60154780N,Espanya,Barcelona,30,12,2000,25,Dona,1.58,Grup B,Sales Manager,0,,,,16.1,-0.5,1.0,0.0,0.0,3.5,4.0,800.0,25,800.0,0,0 - Sin cargas
+660,Valentina,Ferrari Rossi,29537240C,Itàlia,Bologna,23,2,1993,33,Dona,1478.0,Grup B,Mid-level Analyst,0,,,,12.7,0.0,0.0,1.0,0.0,3.5,4.5,1544.51,32,1544.51,0,0 - Sin cargas
+667,Lucas,Michel,41162770A,França,Toulouse,7,8,1982,44,Home,1619.0,Grup B,Junior Analyst,0,False,0.0,0.0,14.0,0.0,0.0,1.0,0.0,3.5,4.5,1691.85,43,1691.85,0,0 - Sin cargas
+668,Sergio,García,60057985G,Espanya,Màlaga,7,10,1986,40,Home,1851.0,Grup B,Junior Analyst,2,False,0.0,0.0,18.5,0.0,0.0,1.0,1.5,3.5,6.0,1962.06,39,654.02,78,1 - Etapa activa
+670,Ben,Richter Becker,84198784R,Alemanya,Köln,20,2,1968,58,Dona,1939.0,Grup B,Project lead,0,True,80000.0,4.9,9.5,0.0,0.0,2.0,0.0,3.5,5.5,2045.64,57,2045.64,0,0 - Sin cargas
+675,Alejandro,Navarro,50530014N,Espanya,Tarragona,26,11,1966,59,Dona,1947.0,Grup B,Senior Analyst,0,True,50000.0,10.7,-5.0,0.5,1.0,2.0,0.0,3.5,7.0,2083.29,59,2083.29,0,0 - Sin cargas
+676,Marie,Richter,57617011Q,Alemanya,Stuttgart,10,10,1962,64,Dona,1306.0,Grup B,Sales Manager,1,True,80000.0,25.0,13.1,0.0,1.0,1.5,1.5,3.5,7.5,1403.95,63,701.98,63,2 - Alta dependencia
+681,Nil,López Costa,52138595R,Espanya,Màlaga,25,2,2000,26,Dona,1669.0,Grup B,Tècnic IT,0,True,65950.0,0.5,22.9,0.0,0.0,0.0,0.0,3.5,3.5,1727.42,25,1727.42,0,0 - Sin cargas
+687,Alessia,Barbieri,22511284S,Itàlia,Genova,14,5,1968,58,Dona,1382.0,Grup B,Admin.,0,False,0.0,0.0,16.5,0.5,1.0,2.0,0.0,3.5,7.0,1478.74,57,1478.74,0,0 - Sin cargas
+688,Sergio,García Pujol,29838164X,Espanya,Màlaga,7,4,1990,36,Dona,2149.0,Grup B,Project lead,0,,,,21.1,0.0,0.0,1.0,0.0,3.5,4.5,2245.7,35,2245.7,0,0 - Sin cargas
+690,Noa,Vila Ruiz,45616810T,Espanya,Alacant,13,5,1995,31,Dona,1724.0,Grup B,Senior Analyst,1,False,0.0,0.0,38.0,0.5,1.0,1.0,1.5,3.5,7.5,1853.3,30,926.65,30,1 - Etapa activa
+695,Alexia,Torres,36724504R,Espanya,Alacant,12,11,1978,47,Home,1192.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,17.0,0.5,1.0,2.0,0.0,3.5,7.0,1275.44,47,1275.44,0,0 - Sin cargas
+698,Aina,Díaz,83677009H,Espanya,Barcelona,26,2,1992,34,Dona,2242.0,Grup B,Project lead,1,False,0.0,0.0,18.7,-0.5,1.0,1.0,1.5,3.5,6.5,2387.73,33,1193.86,33,1 - Etapa activa
+699,Jordi,Sánchez,24346658P,Espanya,A Coruña,18,7,1981,45,Home,1895.0,Grup B,Data Analyst,1,True,96645.0,25.0,15.9,0.0,1.0,2.0,1.5,3.5,8.0,2046.6,44,1023.3,44,1 - Etapa activa
+700,Claudia,Ribera Casals,41931968R,Espanya,Valladolid,18,8,1970,56,Dona,1630.0,Grup B,Tècnic IT,2,,,,9.2,0.5,1.0,2.0,1.5,3.5,8.5,1768.55,55,589.52,110,2 - Alta dependencia
+701,Carmen,Costa,91236074S,Espanya,Bilbao,21,5,1984,42,Dona,1570.0,Grup B,Mid-level Analyst,2,,,,15.3,0.0,1.0,1.0,1.5,3.5,7.0,1679.9,41,559.97,82,1 - Etapa activa
+702,Sofia,Russo Ricci,62978256G,Itàlia,Napoli,22,2,2004,22,Dona,2060.0,Grup B,Senior Analyst,0,False,0.0,0.0,16.6,0.5,1.0,0.0,0.0,3.5,5.0,2163.0,21,2163.0,0,0 - Sin cargas
+703,Marta,Moreno,69513720K,Espanya,Murcia,9,11,1991,34,Dona,1555.0,Grup B,Senior Analyst,2,False,0.0,0.0,19.5,0.5,1.0,1.0,1.5,3.5,7.5,1671.62,34,557.21,68,1 - Etapa activa
+710,Xavier,Muñoz,23087728C,Espanya,Màlaga,24,1,1968,58,Home,1286.0,Grup B,Mid-level Analyst,1,True,60905.0,0.5,18.9,0.0,0.0,2.0,1.5,3.5,7.0,1376.02,57,688.01,57,2 - Alta dependencia
+715,Emma,Leroy Robert,37554949G,França,Lyon,16,7,1960,66,Home,1608.0,Grup B,Senior Analyst,0,,,,13.8,0.0,1.0,1.5,0.0,3.5,6.0,1704.48,65,1704.48,0,0 - Sin cargas
+718,Oriol,Díaz,48785862Q,Espanya,Las Palmas de Gran Canaria,6,3,1962,64,Home,1540.0,Grup B,Mid-level Analyst,0,True,65950.0,,20.0,0.5,1.0,1.5,0.0,3.5,6.5,1640.1,63,1640.1,0,0 - Sin cargas
+721,Carlos,Ãlvarez,45943432F,Espanya,Las Palmas de Gran Canaria,13,2,1999,27,,1491.0,Grup B,Data Analyst,0,,,,24.0,0.5,1.0,0.0,0.0,3.5,5.0,1565.55,26,1565.55,0,0 - Sin cargas
+722,Nil,Gómez Ribera,80910050J,Espanya,Zaragoza,12,3,2003,23,Dona,1538.0,Grup B,Senior Analyst,0,,,,17.7,0.5,1.0,0.0,0.0,3.5,5.0,1614.9,22,1614.9,0,0 - Sin cargas
+405,Astrid,Hansen Bakke,67325876K,Noruega,Bergen,31,7,1967,59,Home,1800.0,Grup B,Data Analyst,0,,,,6.2,-0.5,2.0,2.0,0.0,3.5,7.0,1926.0,58,1926.0,0,0 - Sin cargas
+728,Xavier,Romero,59379352L,Espanya,Girona,13,4,2001,25,Dona,1165.0,Grup B,Admin.,0,False,0.0,0.0,14.2,0.5,1.0,0.0,0.0,3.5,5.0,1223.25,24,1223.25,0,0 - Sin cargas
+730,Claudia,Gil Ferrer,55297384F,Espanya,València,1,11,1981,45,Home,1.79,Grup B,Sales Manager,0,True,29952.0,9.2,20.3,0.0,1.0,2.0,0.0,3.5,6.5,800.0,44,800.0,0,0 - Sin cargas
+732,Adrià,Pujol,45404362D,Espanya,Palma,17,4,1997,29,Dona,1572.0,Grup B,Mid-level Analyst,0,True,107127.0,,14.0,0.0,1.0,0.0,0.0,3.5,4.5,1642.74,28,1642.74,0,0 - Sin cargas
+735,Nil,García,36098769M,Espanya,Madrid,26,10,1994,32,Dona,1893.0,Grup B,Senior Analyst,0,True,28726.0,0.5,15.6,0.0,1.0,1.0,0.0,3.5,5.5,1997.11,31,1997.11,0,0 - Sin cargas
+736,Anna,García,40616453Q,Espanya,Zaragoza,18,5,1971,55,Home,2.4,Grup B,Senior Analyst,0,,,,13.8,0.5,1.0,2.0,0.0,3.5,7.0,800.0,54,800.0,0,0 - Sin cargas
+742,Carlos,Navarro Puig,32984583Y,Espanya,Sevilla,23,6,1978,48,Home,1486.0,Grup B,Admin.,0,True,45301.0,0.5,22.5,0.5,1.0,2.0,0.0,3.5,7.0,1590.02,47,1590.02,0,0 - Sin cargas
+745,Marina,Soler Muñoz,75941954K,Espanya,Murcia,20,6,1978,48,Dona,1539.0,Grup B,Sales Manager,1,,,,19.1,0.5,1.0,2.0,1.5,3.5,8.5,1669.82,47,834.91,47,2 - Alta dependencia
+752,Sergio,Ramos,52715309K,Espanya,València,18,11,1960,65,Home,1412.0,Grup B,Data Analyst,1,True,65950.0,0.5,20.2,0.0,1.0,1.5,1.5,3.5,7.5,1517.9,65,758.95,65,2 - Alta dependencia
+753,Aina,Ribera,43716263M,Espanya,València,9,6,1979,47,Dona,1636.0,Grup B,Tècnic IT,0,True,80000.0,13.3,17.4,0.0,1.0,2.0,0.0,3.5,6.5,1742.34,46,1742.34,0,0 - Sin cargas
+755,Jordi,Roca,12098146L,Espanya,Màlaga,11,9,1982,44,Home,1825.0,Grup B,Admin.,2,,,,18.5,0.0,0.0,1.0,1.5,3.5,6.0,1934.5,43,644.83,86,1 - Etapa activa
+756,Finn,Schröder,54777065H,Alemanya,München,27,9,1970,56,Dona,1519.0,Grup B,Senior Analyst,3,True,77960.0,,8.0,0.0,0.0,2.0,1.5,3.5,7.0,1625.33,55,406.33,165,2 - Alta dependencia
+761,Marina,Díaz Vila,88709772L,Espanya,Valladolid,13,7,1997,29,Dona,1499.0,Grup B,Project lead,0,False,0.0,0.0,9.5,0.5,1.0,0.0,0.0,3.5,5.0,1573.95,28,1573.95,0,0 - Sin cargas
+765,Carlos,Puig,34399341M,Espanya,Girona,11,1,1969,57,Dona,1939.0,Grup B,Data Analyst,2,,,,14.8,0.5,1.0,2.0,1.5,3.5,8.5,2103.82,56,701.27,112,2 - Alta dependencia
+767,Arthur,Richard,45035917P,França,Nice,11,10,1959,67,Dona,1318.0,Grup B,Sales Manager,0,,,,17.0,0.0,0.0,1.5,0.0,3.5,5.0,1383.9,66,1383.9,0,0 - Sin cargas
+772,Guillem,Vidal,16498347C,Espanya,Sevilla,13,3,1965,61,Home,1364.0,Grup B,Data Analyst,0,,,,16.7,0.5,1.0,1.5,0.0,3.5,6.5,1452.66,60,1452.66,0,0 - Sin cargas
+774,Guillem,Gómez,30083236D,Espanya,Barcelona,4,9,1977,49,Dona,1307.0,Grup B,Data Analyst,0,True,52646.0,7.3,15.3,-0.5,1.0,2.0,0.0,3.5,6.0,1385.42,48,1385.42,0,0 - Sin cargas
+776,Lucas,Robert Martin,30960858T,França,Lille,25,12,1962,63,Home,1348.0,Grup B,Data Analyst,0,False,0.0,0.0,12.4,0.0,1.0,1.5,0.0,3.5,6.0,1428.88,63,1428.88,0,0 - Sin cargas
+777,Pau,Romero Vidal,47768705Q,Espanya,Girona,5,3,1972,54,Dona,1314.0,Grup B,Data Analyst,0,,,,13.0,0.5,1.0,2.0,0.0,3.5,7.0,1405.98,53,1405.98,0,0 - Sin cargas
+782,Irene,Gómez,68716883N,Espanya,A Coruña,27,5,1986,40,Dona,1319.0,Grup B,Tècnic IT,0,False,0.0,0.0,12.9,0.0,1.0,1.0,0.0,3.5,5.5,1391.54,39,1391.54,0,0 - Sin cargas
+785,Núria,Soler Romero,23697646J,Espanya,A Coruña,10,12,1993,32,Home,1405.0,Grup B,Tècnic IT,0,False,0.0,0.0,18.4,0.0,1.0,1.0,0.0,3.5,5.5,1482.28,32,1482.28,0,0 - Sin cargas
+789,Riccardo,Rossi,16284386J,Itàlia,Firenze,18,5,1959,67,Dona,1920.0,Grup B,Sales Manager,2,True,40000.0,4.5,42.0,0.0,1.0,1.5,1.5,3.5,7.5,2064.0,66,688.0,132,2 - Alta dependencia
+794,Thomas,Fournier,24490208F,França,Toulouse,14,12,1971,54,Dona,1843.0,Grup B,Senior Analyst,0,False,0.0,0.0,13.5,0.0,0.0,2.0,0.0,3.5,5.5,1944.36,54,1944.36,0,0 - Sin cargas
+795,Xavier,Gómez Hernández,26719412L,Espanya,Barcelona,9,3,1989,37,Home,1727.0,Grup B,Junior Analyst,0,,,,21.1,-0.5,1.0,1.0,0.0,3.5,5.0,1813.35,36,1813.35,0,0 - Sin cargas
+796,Alexia,Ferrer,44721033L,Espanya,Palma,5,9,1962,64,Home,1146.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,20.6,0.0,1.0,1.5,0.0,3.5,6.0,1214.76,63,1214.76,0,0 - Sin cargas
+797,Élise,Richard,92740956K,França,Nantes,14,9,1974,52,Home,2235.0,Grup B,Senior Analyst,0,False,0.0,0.0,13.4,0.0,0.0,2.0,0.0,3.5,5.5,2357.92,51,2357.92,0,0 - Sin cargas
+798,Aina,Moreno,90410932K,Espanya,A Coruña,5,10,1965,61,Dona,1774.0,Grup B,Data Analyst,0,True,80000.0,25.0,12.9,0.0,1.0,1.5,0.0,3.5,6.0,1880.44,60,1880.44,0,0 - Sin cargas
+799,Irene,Fernández Ruiz,23422888Q,Espanya,Tarragona,5,11,2003,22,Home,2170.0,Grup B,Project lead,1,,,,17.7,0.5,1.0,0.0,1.5,3.5,6.5,2311.05,22,1155.53,22,1 - Etapa activa
+800,Luca,Zimmermann Schmidt,46771858V,Alemanya,Frankfurt,22,7,1982,44,Nc,1634.0,Grup B,Tècnic IT,0,False,0.0,0.0,11.8,-0.5,1.0,1.0,0.0,3.5,5.0,1715.7,43,1715.7,0,0 - Sin cargas
+801,Sara,Navarro,77970791L,Espanya,Barcelona,7,4,1978,48,Home,1497.0,Grup B,Mid-level Analyst,0,,,,14.2,-0.5,1.0,2.0,0.0,3.5,6.0,1586.82,47,1586.82,0,0 - Sin cargas
+806,Simone,Conti,67611249P,Itàlia,Napoli,2,1,1975,51,Dona,1849.0,Grup B,Project lead,0,True,53342.0,0.5,19.0,0.5,1.0,2.0,0.0,3.5,7.0,1978.43,50,1978.43,0,0 - Sin cargas
+807,Pol,Ferrer,21390627Z,Espanya,Tarragona,27,12,1997,28,Dona,1785.0,Grup B,Admin.,0,True,65950.0,0.5,14.1,0.5,1.0,0.0,0.0,3.5,5.0,1874.25,28,1874.25,0,0 - Sin cargas
+809,Núria,Torres,33119000P,Espanya,Zaragoza,12,7,1962,64,Dona,1846.0,Grup B,Project lead,1,,,,42.0,0.5,1.0,1.5,1.5,3.5,8.0,1993.68,63,996.84,63,2 - Alta dependencia
+810,Riccardo,Lombardi Conti,82025376Z,Itàlia,Napoli,5,2,1996,30,Nc,1993.0,Grup B,Project lead,0,,,,18.5,0.5,1.0,1.0,0.0,3.5,6.0,2112.58,29,2112.58,0,0 - Sin cargas
+811,Oriol,Vidal,70319344K,Espanya,Màlaga,27,5,1964,62,Dona,1203.0,Grup B,Data Analyst,0,True,52327.0,25.0,16.3,0.0,0.0,1.5,0.0,3.5,5.0,1263.15,61,1263.15,0,0 - Sin cargas
+813,Riccardo,Mancini Russo,84908042K,Itàlia,Genova,20,11,1990,35,Home,1319.0,Grup B,Sales Manager,0,True,43088.0,,15.2,0.5,1.0,1.0,0.0,3.5,6.0,1398.14,35,1398.14,0,0 - Sin cargas
+824,Alba,Roca Ramos,53919906E,Espanya,Girona,23,9,1977,49,Dona,1640.0,Grup B,Project lead,1,False,0.0,0.0,16.3,0.5,1.0,2.0,1.5,3.5,8.5,1779.4,48,889.7,48,2 - Alta dependencia
+831,Alba,Torres Navarro,83919680R,Espanya,Barcelona,20,8,1966,60,Dona,1778.0,Grup B,Admin.,2,True,65983.0,12.6,38.0,-0.5,1.0,1.5,1.5,3.5,7.0,1902.46,59,634.15,118,2 - Alta dependencia
+834,Aina,Martínez,26818338E,Espanya,Palma,9,9,1988,38,Nc,2147.0,Grup B,Mid-level Analyst,0,True,30000.0,12.9,19.4,0.0,1.0,1.0,0.0,3.5,5.5,2265.08,37,2265.08,0,0 - Sin cargas
+855,Alba,Muñoz,83683223Z,Espanya,Las Palmas de Gran Canaria,12,2,1965,61,Dona,1644.0,Grup B,Junior Analyst,3,True,65950.0,0.5,22.1,0.5,1.0,1.5,1.5,3.5,8.0,1775.52,60,443.88,180,2 - Alta dependencia
+859,Camille,Fournier,43035177B,França,Marseille,26,8,1998,28,Dona,1929.0,Grup B,Data Analyst,0,True,30000.0,25.0,10.4,0.0,1.0,0.0,0.0,3.5,4.5,2015.8,27,2015.8,0,0 - Sin cargas
+862,David,Vila Ãlvarez,45253038G,Espanya,Bilbao,25,8,1978,48,Dona,1.35,Grup B,Data Analyst,0,,,,6.7,0.0,1.0,2.0,0.0,3.5,6.5,800.0,47,800.0,0,0 - Sin cargas
+867,Alejandro,Díaz Fernández,93255820N,Espanya,Madrid,29,7,2003,23,Dona,1989.0,Grup B,Sales Manager,0,True,30000.0,13.1,16.5,0.0,1.0,0.0,0.0,3.5,4.5,2078.5,22,2078.5,0,0 - Sin cargas
+870,Felix,Müller,63102334D,Alemanya,Frankfurt,15,9,1984,42,,2025.0,Grup B,Project lead,0,True,20000.0,8.9,10.2,-0.5,1.0,1.0,0.0,3.5,5.0,2126.25,41,2126.25,0,0 - Sin cargas
+872,Joana,Muñoz,24780319M,Espanya,Barcelona,12,6,1969,57,Dona,1957.0,Grup B,Data Analyst,1,,,,17.6,-0.5,1.0,2.0,1.5,3.5,7.5,2103.78,56,1051.89,56,2 - Alta dependencia
+880,Joana,Ribera Vila,97754046W,Espanya,Girona,5,1,1995,31,,1495.0,Grup B,Sales Manager,1,False,0.0,0.0,12.9,0.5,1.0,1.0,1.5,3.5,7.5,1607.12,30,803.56,30,1 - Etapa activa
+883,Jonas,Wagner Meyer,44670469S,Alemanya,Frankfurt,25,9,1995,31,Dona,1.63,Grup B,Data Analyst,0,False,0.0,0.0,38.0,-0.5,1.0,1.0,0.0,3.5,5.0,800.0,30,800.0,0,0 - Sin cargas
+884,Guillem,Casals Martínez,65510726P,Espanya,València,27,8,1961,65,Home,1417.0,Grup B,Sales Manager,0,False,0.0,0.0,17.4,0.0,1.0,1.5,0.0,3.5,6.0,1502.02,64,1502.02,0,0 - Sin cargas
+890,Léa,Garcia,95182735K,França,Nantes,14,7,1969,57,Dona,1831.0,Grup B,Senior Analyst,4,True,82014.0,0.5,14.1,0.0,0.0,2.0,1.5,3.5,7.0,1959.17,56,391.83,224,2 - Alta dependencia
+892,Alessandro,Costa,93540199D,Itàlia,Genova,6,7,1999,27,Dona,1310.0,Grup B,Data Analyst,0,,,,13.5,0.5,1.0,0.0,0.0,3.5,5.0,1375.5,26,1375.5,0,0 - Sin cargas
+893,Marina,Ruiz,87027101V,Espanya,Girona,9,1,1960,66,,1549.0,Grup B,Senior Analyst,2,True,80000.0,6.8,11.3,0.5,1.0,1.5,1.5,3.5,8.0,1672.92,65,557.64,130,2 - Alta dependencia
+902,Irene,Sánchez,88114875M,Espanya,Palma,12,12,1998,27,Dona,1687.0,Grup B,Mid-level Analyst,0,True,30000.0,25.0,10.9,0.0,1.0,0.0,0.0,3.5,4.5,1762.92,27,1762.92,0,0 - Sin cargas
+903,Marie,Roux,76770443M,França,Lille,22,6,1977,49,Nc,1353.0,Grup B,Mid-level Analyst,4,True,25193.0,,9.4,0.0,1.0,2.0,1.5,3.5,8.0,1461.24,48,292.25,192,2 - Alta dependencia
+905,Mia,Wolf,84255393L,Alemanya,Frankfurt,1,9,1959,67,Home,2100.0,Grup B,Sales Manager,1,False,0.0,0.0,9.2,-0.5,1.0,1.5,1.5,3.5,7.0,2247.0,66,1123.5,66,2 - Alta dependencia
+907,Giulia,Moretti Rizzo,25873604R,Itàlia,Firenze,6,6,1958,68,Home,1721.0,Grup B,Data Analyst,1,True,80000.0,10.1,10.5,0.0,1.0,1.5,1.5,3.5,7.5,1850.07,67,925.04,67,2 - Alta dependencia
+908,David,Fernández,99490648V,Espanya,A Coruña,10,8,1979,47,Home,2056.0,Grup B,Senior Analyst,0,False,0.0,0.0,15.1,0.0,1.0,2.0,0.0,3.5,6.5,2189.64,46,2189.64,0,0 - Sin cargas
+910,Alexia,Torres,73364738M,Espanya,Las Palmas de Gran Canaria,17,2,1999,27,Nc,1198.0,Grup B,Tècnic IT,0,,,,21.7,0.5,1.0,0.0,0.0,3.5,5.0,1257.9,26,1257.9,0,0 - Sin cargas
+915,Sergio,Gómez Soler,51960195A,Espanya,Las Palmas de Gran Canaria,5,6,2001,25,Dona,1635.0,Grup B,Tècnic IT,1,True,80000.0,0.5,21.7,0.5,1.0,0.0,1.5,3.5,6.5,1741.28,24,870.64,24,1 - Etapa activa
+918,Sergio,Soler Gómez,53850908K,Espanya,València,14,5,2002,24,Home,1782.0,Grup B,Senior Analyst,0,,,,17.4,0.0,1.0,0.0,0.0,3.5,4.5,1862.19,23,1862.19,0,0 - Sin cargas
+919,Nil,Hernández,60855083M,Espanya,Sevilla,24,8,1988,38,Home,1331.0,Grup B,Tècnic IT,0,,,,17.6,0.5,1.0,1.0,0.0,3.5,6.0,1410.86,37,1410.86,0,0 - Sin cargas
+927,Anna,Pérez Serra,81260169S,Espanya,Barcelona,11,2,1983,43,Home,1.93,Grup B,Senior Analyst,3,,,,16.6,-0.5,1.0,1.0,1.5,3.5,6.5,800.0,42,200.0,126,1 - Etapa activa
+931,Marco,Russo Lombardi,11110324P,Itàlia,Firenze,7,8,1966,60,Home,1529.0,Grup B,Data Analyst,0,False,0.0,0.0,15.0,0.0,1.0,1.5,0.0,3.5,6.0,1620.74,59,1620.74,0,0 - Sin cargas
+937,Hannah,Hoffmann,84896302S,Alemanya,Hamburg,24,12,1995,30,Dona,1575.0,Grup B,Data Analyst,3,False,0.0,0.0,8.9,-0.5,1.0,1.0,1.5,3.5,6.5,1677.38,30,419.34,90,1 - Etapa activa
+938,Anna,Serra,81614472L,Espanya,Murcia,4,2,1984,42,Dona,1530.0,Grup B,Admin.,0,True,20000.0,6.5,19.1,0.5,1.0,1.0,0.0,3.5,6.0,1621.8,41,1621.8,0,0 - Sin cargas
+946,Ben,Richter,91594909C,Alemanya,Berlin,13,4,1991,35,Dona,1567.0,Grup B,Data Analyst,4,True,50370.0,,10.7,-0.5,1.0,1.0,1.5,3.5,6.5,1668.86,34,333.77,136,1 - Etapa activa
+948,Marie,Becker,86737279H,Alemanya,Düsseldorf,17,9,1958,68,Dona,1421.0,Grup B,Junior Analyst,0,,,,9.2,0.0,0.0,1.5,0.0,3.5,5.0,1492.05,67,1492.05,0,0 - Sin cargas
+950,Carmen,Martínez Puig,39409531F,Espanya,Zaragoza,9,9,1995,31,Dona,1531.0,Grup B,Tècnic IT,1,,,,12.7,0.5,1.0,1.0,1.5,3.5,7.5,1645.82,30,822.91,30,1 - Etapa activa
+951,Aina,Moreno,35382259C,Espanya,Girona,1,3,1977,49,Dona,2179.0,Grup B,Project lead,2,False,0.0,0.0,-5.0,0.5,1.0,2.0,1.5,3.5,8.5,2364.22,48,788.07,96,2 - Alta dependencia
+959,Jonas,Müller Fischer,74877175D,Alemanya,Köln,19,9,1977,49,Dona,1501.0,Grup B,Data Analyst,4,False,0.0,0.0,5.3,0.0,0.0,2.0,1.5,3.5,7.0,1606.07,48,321.21,192,2 - Alta dependencia
+964,Alba,Vidal,47047110R,Espanya,Las Palmas de Gran Canaria,3,2,1961,65,Dona,1188.0,Grup B,Data Analyst,0,False,0.0,0.0,20.7,0.5,1.0,1.5,0.0,3.5,6.5,1265.22,64,1265.22,0,0 - Sin cargas
+968,David,García,77176147R,Espanya,Bilbao,15,6,1981,45,Dona,1762.0,Grup B,Mid-level Analyst,0,True,65950.0,0.5,13.1,0.0,1.0,2.0,0.0,3.5,6.5,1876.53,44,1876.53,0,0 - Sin cargas
+970,Oriol,Puig Fernández,44631884M,Espanya,Barcelona,25,9,1999,27,Home,1666.0,Grup B,Data Analyst,2,False,0.0,0.0,14.8,-0.5,1.0,0.0,1.5,3.5,5.5,1757.63,26,585.88,52,1 - Etapa activa
+972,Nicolas,Michel Robert,26412074X,França,Bordeaux,28,7,1995,31,Dona,1692.0,Grup B,Sales Manager,0,True,80000.0,25.0,12.8,0.0,1.0,1.0,0.0,3.5,5.5,1785.06,30,1785.06,0,0 - Sin cargas
+980,Marina,Romero Pujol,25303511D,Espanya,Palma,12,9,1997,29,,2004.0,Grup B,Project lead,2,False,0.0,0.0,15.9,0.0,1.0,0.0,1.5,3.5,6.0,2124.24,28,708.08,56,1 - Etapa activa
+982,Carlos,Gómez Navarro,40048229A,Espanya,Sevilla,19,7,1975,51,Dona,2000.0,Grup B,Sales Manager,0,False,0.0,0.0,15.7,0.5,1.0,2.0,0.0,3.5,7.0,2140.0,50,2140.0,0,0 - Sin cargas
+984,Adrià,Martínez Romero,54443205M,Espanya,Murcia,21,7,1986,40,Home,1989.0,Grup B,Sales Manager,0,,,,16.2,0.5,1.0,1.0,0.0,3.5,6.0,2108.34,39,2108.34,0,0 - Sin cargas
+985,Pol,García,76459478B,Espanya,Palma,14,1,1977,49,Home,1244.0,Grup B,Project lead,1,True,56745.0,,17.3,0.0,1.0,2.0,1.5,3.5,8.0,1343.52,48,671.76,48,2 - Alta dependencia
+986,Ilaria,Ricci Romano,33261698T,Itàlia,Roma,7,4,1970,56,Dona,1225.0,Grup B,Data Analyst,0,True,116027.0,9.4,17.6,0.0,1.0,2.0,0.0,3.5,6.5,1304.62,55,1304.62,0,0 - Sin cargas
+991,Carlos,Gómez,54542152B,Espanya,Barcelona,28,4,2002,24,Home,1377.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,16.5,-0.5,1.0,0.0,0.0,3.5,4.0,1432.08,23,1432.08,0,0 - Sin cargas
+992,Sara,Navarro,43732173G,Espanya,Alacant,12,3,1996,30,Home,1903.0,Grup B,Data Analyst,0,,,,24.3,0.5,1.0,1.0,0.0,3.5,6.0,2017.18,29,2017.18,0,0 - Sin cargas
+995,Laura,Bauer Zimmermann,34637932B,Alemanya,Köln,6,3,1993,33,Home,1644.0,Grup B,Mid-level Analyst,0,False,0.0,0.0,11.5,0.0,0.0,1.0,0.0,3.5,4.5,1717.98,32,1717.98,0,0 - Sin cargas
+998,Chloé,Dubois,66354268T,França,Nice,2,12,1958,67,Home,1954.0,Grup B,Data Analyst,1,,,,11.7,0.0,0.0,1.5,1.5,3.5,6.5,2081.01,67,1040.51,67,2 - Alta dependencia
+651,Kasper,Pettersen,62042563B,Noruega,Oslo,11,5,1996,30,Dona,2.29,Grup B,Senior Analyst,0,True,80000.0,0.5,6.5,-0.5,2.0,1.0,0.0,3.5,6.0,800.0,29,800.0,0,0 - Sin cargas
